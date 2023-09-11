@@ -17,7 +17,7 @@
 
 :::{grid-item-card} Crypto and Digital Assets Risk Management: Navigating Opportunities and Challenges to create an innovative, rare and hard-to-replicate competitive advantage
 :margin: 3 0 0 0
-:link: https://dlt-science.github.io/science-notes/ARM/hed.html
+:link: https://dlt-science.github.io/science-notes/ARM/arm.html
 :link-type: url
 :text-align: center
 :shadow: md
