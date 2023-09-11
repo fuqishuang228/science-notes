@@ -1,4 +1,4 @@
-# Crypto and Digital Assets Risk Management: Navigating Opportunities and Challenges to create an innovative, rare and hard-to-replicate competitive advantage
+# Crypto and Digital Assets Risk Management: Navigating Opportunities and Challenges
 
 <ins>**Industry Perspective**</ins>
 
